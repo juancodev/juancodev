@@ -2,5 +2,5 @@
 
 <h3>Hello word 👋</h3>
 
-👨🏻‍🎓 Higher University Technician in Computer Science.
+👨🏻‍🎓 Higher University Technician in Computer Science. <br/>
 👨🏻‍💻 I currently work as a technical support analyst and on my own as a web developer with experience learned at university, with courses and on my own. I enjoy trying new technologies and squeezing existing ones to their limits.
