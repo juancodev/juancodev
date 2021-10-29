@@ -13,16 +13,16 @@
 <h2>Contact</h2>
 
 <li>
-  Portfolio: <a target="_blank" href="https://juancms98.github.io/Portfolio/">Portfolio</a>
+  Portfolio: <a href="https://juancms98.github.io/Portfolio/" target="_blank">Portfolio</a>
 </li>
 <li>
-  Twitter: <a target="_blank" href="https://twitter.com/juancms98">@juancms98</a>
+  Twitter: <a href="https://twitter.com/juancms98" target="_blank">@juancms98</a>
 </li>
 <li>
-  Instagram: <a target="_blank" href="https://www.instagram.com/juancms98/">@juancms98</a>
+  Instagram: <a href="https://www.instagram.com/juancms98/" target="_blank">@juancms98</a>
 </li>
 <li>
-  Linkedin: <a target="_blank" href="https://www.linkedin.com/in/juancms98/">juancms98</a>
+  Linkedin: <a href="https://www.linkedin.com/in/juancms98/" target="_blank" >juancms98</a>
 </li>
 <li>
   Gmail: montillasanchezjuancarlos@gmail.com
