@@ -13,6 +13,9 @@
 <h2>Contact</h2>
 
 <li>
+  Portfolio: <a target="_blank" href="https://juancms98.github.io/Portfolio/">Portfolio</a>
+</li>
+<li>
   Twitter: <a target="_blank" href="https://twitter.com/juancms98">@juancms98</a>
 </li>
 <li>
