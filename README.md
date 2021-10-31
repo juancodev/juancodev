@@ -13,9 +13,11 @@
 <h2>Tengo conocimientos en:</h2></ br>
 <p>Frontend</p></ br>
 
-<img src="https://res.cloudinary.com/juancms98/image/upload/v1635658721/html-1_bznsf1.svg" alt="HTML5" width="65" height="65"/>
-<img src="https://res.cloudinary.com/juancms98/image/upload/v1635658736/css-3_mowbme.svg" alt="CCS3" width="65" height="65"/>
-<img src="https://res.cloudinary.com/juancms98/image/upload/v1635658504/javascript-1_akpi8w.svg" alt="JavaScript" width="65" height="65"/>
+<a href="#">
+<img src="https://res.cloudinary.com/juancms98/image/upload/v1635658721/html-1_bznsf1.svg" alt="HTML5" width="65" height="65" target="_blank"/>
+<img src="https://res.cloudinary.com/juancms98/image/upload/v1635658736/css-3_mowbme.svg" alt="CCS3" width="65" height="65" target="_blank"/>
+<img src="https://res.cloudinary.com/juancms98/image/upload/v1635658504/javascript-1_akpi8w.svg" alt="JavaScript" width="65" height="65" target="_blank"/>
+</a>
 
 <h2>Contact</h2>
 
