@@ -10,6 +10,13 @@
   <li> 👨🏻‍💻 I currently work as a technical support analyst and on my own as a web developer with experience learned at university, with courses and on my own. I enjoy trying new technologies and squeezing existing ones to their limits.</li>
 </h4>
 
+<h2>Tengo conocimientos en:</h2></ br>
+<p>Frontend</p></ br>
+
+<img src="https://res.cloudinary.com/juancms98/image/upload/v1635658721/html-1_bznsf1.svg" alt="HTML5" />
+<img src="https://res.cloudinary.com/juancms98/image/upload/v1635658736/css-3_mowbme.svg" alt="CCS3" />
+<img src="https://res.cloudinary.com/juancms98/image/upload/v1635658504/javascript-1_akpi8w.svg" alt="JavaScript" />
+
 <h2>Contact</h2>
 
 <li>
