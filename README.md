@@ -20,6 +20,7 @@ __Frontend:__
   <img src="https://res.cloudinary.com/juancms98/image/upload/v1635658721/html-1_bznsf1.svg" alt="HTML5" width="65" height="65" target="_blank"/>
   <img src="https://res.cloudinary.com/juancms98/image/upload/v1635658736/css-3_mowbme.svg" alt="CCS3" width="65" height="65" target="_blank"/>
   <img src="https://res.cloudinary.com/juancms98/image/upload/v1635658504/javascript-1_akpi8w.svg" alt="JavaScript" width="65" height="65" target="_blank"/>
+  <img src="https://res.cloudinary.com/juancms98/image/upload/v1650343997/angular-icon_egocq5.svg" alt="Angular" width="65" height="65" target="_blank"/>
   <img src="https://res.cloudinary.com/juancms98/image/upload/v1635658802/bootstrap-4_cdedpz.svg" alt="Boostrap" width="65" height="65" target="_blank"/>
   <img src="https://res.cloudinary.com/juancms98/image/upload/v1635658863/materialize-css-1_k1lytk.svg" alt="Materialize" width="65" height="65" target="_blank"/>
 </a>
