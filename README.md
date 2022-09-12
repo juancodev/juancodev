@@ -1,6 +1,6 @@
-<h1>Juan Montilla | @juancms98 </h1>
+# Juan Montilla | @juancms98
 
-<img src="https://res.cloudinary.com/juancms98/image/upload/v1623648535/1_ysrdon.png" alt="Fondo Pantalla" />
+![Fondo Pantalla](https://res.cloudinary.com/juancms98/image/upload/v1623648535/1_ysrdon.png)
 
 <h2>Hello word 👋</h2>
 
