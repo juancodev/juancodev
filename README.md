@@ -66,5 +66,5 @@ __Others:__
 - [Linkedin](https://www.linkedin.com/in/juancms98/)
 - [Twitter](https://twitter.com/juancms98)
 - [Instagram](https://www.instagram.com/juancms98/)
-- [Gmail](mailto:ontillasanchezjuancarlos@gmail.com)
+- [Gmail](mailto:montillasanchezjuancarlos@gmail.com)
 
