@@ -62,9 +62,9 @@ __Others:__
 
 ## Contact
 
-- [Portfolio:](https://juancms98.github.io/Portfolio/)
-- [Linkedin:](https://www.linkedin.com/in/juancms98/)
-- [Twitter:](https://twitter.com/juancms98)
-- [Instagram:](https://www.instagram.com/juancms98/)
-- [Gmail:](mailto:ontillasanchezjuancarlos@gmail.com)
+- [Portfolio](https://juancms98.github.io/Portfolio/)
+- [Linkedin](https://www.linkedin.com/in/juancms98/)
+- [Twitter](https://twitter.com/juancms98)
+- [Instagram](https://www.instagram.com/juancms98/)
+- [Gmail](mailto:ontillasanchezjuancarlos@gmail.com)
 
