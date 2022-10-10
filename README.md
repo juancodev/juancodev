@@ -55,13 +55,13 @@ _**Others:**_
   <img src="https://res.cloudinary.com/juancms98/image/upload/v1635658994/ubuntu-2_xdtetx.svg" alt="Linux" width="65" height="65" target="_blank"/>
 </a>
 
-<h2></h2>
+## ✌️ Follow me in my social networks:
 
-## Contact
-
-- [Portfolio](https://juancms98.github.io/Portfolio/)
 - [Linkedin](https://www.linkedin.com/in/juancms98/)
 - [Twitter](https://twitter.com/juancms98)
+- [Facebook](https://www.facebook.com/profile.php?id=100067363884753)
 - [Instagram](https://www.instagram.com/juancms98/)
-- [Gmail](mailto:montillasanchezjuancarlos@gmail.com)
+- [My Web site](https://juancodev.github.io/Portfolio/)
+  
+  <img src="https://res.cloudinary.com/juancms98/image/upload/v1630885661/juancms98_yzbssj.png" width="700" heigth="700">
 
