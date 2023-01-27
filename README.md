@@ -30,7 +30,7 @@ _**Backend:**_
 
 <h2></h2>
 
-_**Framework:**_
+_**Framework & Library:**_
 
 <a href="#">
   <img src="https://res.cloudinary.com/juancms98/image/upload/v1635658854/laravel-1_wux8fe.svg" alt="Laravel" width="65" height="65" target="_blank"/>
