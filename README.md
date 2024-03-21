@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/juancodev_" target="blank"><img src="https://img.shields.io/twitter/follow/juancodev_?logo=twitter&style=for-the-badge" alt="juancodev_" /></a> </p>
 
-- 🔭 I’m currently working on [EDTecnica](https://edtecnica.com/)
+- 🔭 I’m currently working on Freelance
 
 - 🌱 I’m currently learning **React, NextJS, Python**
 
 - 👯 I’m looking to collaborate on **EDTecnica**
 
-- 👨‍💻 All of my projects are available at [https://juancodev.github.io/Portfolio](https://juancodev.github.io/Portfolio)
+- 👨‍💻 All of my projects are available at [Portfolio](https://juancodev.onrender.com/)
 
 - 📝 I regularly write articles on [https://cake-goldenrod-8c4.notion.site/Introducci-n-a-la-administraci-n-de-servidores-Linux-b97145f320544c2e8ddf394b10fc04c4](https://cake-goldenrod-8c4.notion.site/Introducci-n-a-la-administraci-n-de-servidores-Linux-b97145f320544c2e8ddf394b10fc04c4)
 
