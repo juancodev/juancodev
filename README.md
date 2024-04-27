@@ -1,7 +1,7 @@
 ![profile](https://res.cloudinary.com/juancodev/image/upload/v1665417202/1_vfknec.png)
 
 <h1 align="center">Hi 👋, I'm Juan Montilla | @juancodev</h1>
-<h3 align="center">I am a frontend developer with 4 years of experience in this profession. I enjoy researching topics about technologies, testing and pushing existing ones to the limit.</h3>
+<h3 align="center">Full-stack developer with 3 years of experience, as a frontend I have a solid command of technologies such as JavaScript, TypeScript, React, CSS, HTML and Tailwind, Bootstrap, and I have worked with frameworks such as Next.js. My experience also extends to backend development, where I have handled Nodejs, Express and Python, FastAPI, and have interacted with databases such as PostgreSQL, MySQL, MariaDB, MongoDB, Firebase and SQL Server.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juancodev&label=Profile%20views&color=0e75b6&style=flat" alt="juancodev" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **EDTecnica**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://juancodev.onrender.com/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://juancodev.site/)
 
 - 📝 I regularly write articles on [https://cake-goldenrod-8c4.notion.site/Introducci-n-a-la-administraci-n-de-servidores-Linux-b97145f320544c2e8ddf394b10fc04c4](https://cake-goldenrod-8c4.notion.site/Introducci-n-a-la-administraci-n-de-servidores-Linux-b97145f320544c2e8ddf394b10fc04c4)
 
