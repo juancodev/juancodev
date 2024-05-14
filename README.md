@@ -1,4 +1,4 @@
-![profile](https://res.cloudinary.com/juancodev/image/upload/v1665417202/1_vfknec.png)
+![profile](https://res.cloudinary.com/juancodev/image/upload/v1715714270/Fondo_de_pantalla_jm.png)
 
 <h1 align="center">Hi 👋, I'm Juan Montilla | @juancodev</h1>
 <h3 align="center">Full-stack developer with 3 years of experience, as a frontend I have a solid command of technologies such as JavaScript, TypeScript, React, CSS, HTML and Tailwind, Bootstrap, and I have worked with frameworks such as Next.js. My experience also extends to backend development, where I have handled Nodejs, Express and Python, FastAPI, and have interacted with databases such as PostgreSQL, MySQL, MariaDB, MongoDB, Firebase and SQL Server.</h3>
